@@ -1,2 +1,2 @@
 # MyProjectForClub
-For Spectrum Club
+
