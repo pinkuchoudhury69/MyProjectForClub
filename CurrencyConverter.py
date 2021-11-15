@@ -8,7 +8,7 @@ for i in lines:
     data=i.split("\t")
     dict[data[0]]=data[1]
 
-amount=int(input("Enter the amount:\n"))
+amount=int(input("Enter the amounts:\n"))
 
 print("Enter the name of currency you to convert this amount to: ")
 
